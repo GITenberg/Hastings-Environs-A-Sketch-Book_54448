@@ -1,11 +1,16 @@
 _repo: Hastings-Environs-A-Sketch-Book_54448
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54448-h/images/cover.jpg
 creator:
   author:
     agent_name: Hampton, H. G.
     gutenberg_agent_id: '47881'
     url: http://www.gutenberg.org/2009/agents/47881
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54448#Hastings-Environs-A-Sketch-Book
 gutenberg_issued: '2017-03-28'
 gutenberg_type: Text
 identifiers:
